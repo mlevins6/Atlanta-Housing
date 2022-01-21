@@ -12,4 +12,4 @@ Predict Likelihood of Self-Sufficiency for AH-Assisted Families 
 
 
                      
-Project Summary: This practicum project is sponsored by Atlanta Housing. 
+Project Summary: This practicum project is sponsored by Atlanta Housing. Please reference the attached powerpoint(s)
