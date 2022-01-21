@@ -1,6 +1,6 @@
 Atlanta-Housing
 
-Spring 2022
+Spring 2022 Practicum
 
 Georgia Institute of Technology 
 
